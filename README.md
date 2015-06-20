@@ -72,3 +72,7 @@ stack('second', function(){
     console.log('--second');
 });
 ```
+
+### What's taskticker for?
+
+What ever you want to use it for, but testing might be a good idea.

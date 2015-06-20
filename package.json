@@ -1,6 +1,6 @@
 {
   "name": "taskticker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run a series of functions in intervals.",
   "main": "index.js",
   "scripts": {
