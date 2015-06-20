@@ -1,7 +1,7 @@
 {
   "name": "taskticker",
   "version": "0.0.1",
-  "description": "Run functions in intervals.",
+  "description": "Run a series of functions in intervals.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
