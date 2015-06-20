@@ -1,5 +1,11 @@
 module.exports = runner;
 
+/*
+git remote add origin https://github.com/hollowdoor/taskticker.git
+git push -u origin master
+npm publish
+*/
+
 function runner(timing){
 
     timing = timing || 1000;
